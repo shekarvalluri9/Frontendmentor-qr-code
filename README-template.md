@@ -29,7 +29,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 ### Links
 
 - Solution URL: [Add solution URL here](http://127.0.0.1:5500/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)#
+- Live Site URL: [Add live site URL here](https://shekarvalluri9.github.io/Frontendmentor-qr-code/)
 
 ## My process
 
