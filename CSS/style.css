@@ -47,5 +47,6 @@ p{
     .container{
         max-width: 375px;
         padding: 5px;
+        background-color: hsl(218, 44%, 22%);
     }
 }
